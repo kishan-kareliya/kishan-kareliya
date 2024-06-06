@@ -1,6 +1,6 @@
-# Hi, I'm Kishan Kareliya 👋
+# Hello, I'm Kishan Kareliya 
 
-I'm a passionate programmer who loves developing full-stack, scalable web applications.
+I'm a passionate programmer who loves developing full-stack, scalable web applications. 
 
 ## Frontend Skills
 <div align="center">
@@ -39,7 +39,7 @@ I'm a passionate programmer who loves developing full-stack, scalable web applic
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2020/08/Nginx-Logo.png" alt="nginx" width="70" height="40"/></a>
 </div>
 
-## Programming Languages (continued)
+## Programming Languages
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
