@@ -13,13 +13,13 @@ I'm a passionate programmer who loves developing full-stack, scalable web applic
 ### 🧩 &nbsp;&nbsp;Libraries & Frameworks:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,nodejs,express,nextjs,redux,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,nodejs,express,nextjs,prisma&theme=dark" />
 </p>
 
 ### ∞ &nbsp; DevOps:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux&theme=dark" />
 </p>
 
 ### 🗄️ &nbsp;Databases:
@@ -31,7 +31,7 @@ I'm a passionate programmer who loves developing full-stack, scalable web applic
 ### 🛠️ &nbsp;Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,bash,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,postman&theme=dark" />
 </p>
 
 ## Leetcode Stats
